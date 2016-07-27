@@ -1,2 +1,3 @@
-�ó����������ģ��c��ֵ����
-��Ҫ����jbuilder��
+该程序用于求解模糊c均值聚类
+需要添加jbuilder包
+需要在MATLAB中建立调用norm的函数求矩阵范数，然后生成供Java使用的jar包
